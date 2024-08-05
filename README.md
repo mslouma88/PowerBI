@@ -57,14 +57,14 @@ Pour accéder à la base de données utilisée dans ce projet, veuillez utiliser
 
 ## Dashboard
 
-### Modéle 1️⃣
+### Modèle 1️⃣
 
 ![dashboard](images/dashboard1.png)
 
-### Modéle 2️⃣
+### Modèle 2️⃣
 
 ![dashboard](images/dashboard2.png)
 
-### Modéle 3️⃣
+### Modèle 3️⃣
 
 ![dashboard](images/dashboard.png)
