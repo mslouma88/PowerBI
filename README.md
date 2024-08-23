@@ -47,13 +47,16 @@ Pour accéder à la base de données utilisée dans ce projet, veuillez utiliser
 
 > **Note :** Veuillez vous assurer que ces informations sont conservées de manière sécurisée et ne sont pas partagées publiquement.
 
-## Auteur(e) 
+## Auteur(e)s
 
 
 | Name               | Email                                               | LinkedIn                                                  | GitHub                                           | Kaggle                                        |
 |--------------------|-----------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------|-----------------------------------------------|
 | **Mr MEJRI Salam** | mejri.salam@gmail.com | <a href="https://www.linkedin.com/in/salam-mejri/" style="text-decoration: none; font-size: 16px;"><img src="https://img.shields.io/badge/LinkedIn-%2300A4CC.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a> | <a href="https://github.com/mslouma88" style="text-decoration: none; font-size: 16px;"><img src="https://img.shields.io/badge/GitHub-%23FF6F61.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"></a> | <a href="https://www.kaggle.com/salammejri" style="text-decoration: none; font-size: 16px;"><img src="https://img.shields.io/badge/Kaggle-%238a2be2.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"></a> |
 
+| Name               | Email                                               | LinkedIn                                                  | GitHub                                           | Kaggle                                        |
+|--------------------|-----------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------|-----------------------------------------------|
+| **Mme BENAMOR Nesrine**  | nesrinebenamor518@gmail.com | <a href="https://www.linkedin.com/in/nesrine-benamor-506659293/" style="text-decoration: none; font-size: 16px;"><img src="https://img.shields.io/badge/LinkedIn-%2300A4CC.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a> | <a href="https://github.com/mslouma88" style="text-decoration: none; font-size: 16px;"><img src="https://img.shields.io/badge/GitHub-%23FF6F61.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"></a> | <a href="https://www.kaggle.com/salammejri" style="text-decoration: none; font-size: 16px;"><img src="https://img.shields.io/badge/Kaggle-%238a2be2.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"></a> |
 
 ## Dashboard
 
